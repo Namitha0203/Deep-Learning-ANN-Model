@@ -128,5 +128,4 @@ This project demonstrates how to build and optimize an ANN for predicting diabet
 
 
 
-## 📁 Repository Structure
 
